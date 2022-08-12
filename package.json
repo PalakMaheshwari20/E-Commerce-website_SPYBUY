@@ -1,0 +1,21 @@
+{
+  "name": "spy-buy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1101.0",
+    "bcrypt": "^5.0.1",
+    "core-util-is": "^1.0.3",
+    "dotenv": "^16.0.0",
+    "express.js": "^1.0.0",
+    "firebase": "^9.7.0",
+    "firebase-admin": "^10.1.0",
+    "nodemon": "^2.0.15"
+  },
+  "description": ""
+}
